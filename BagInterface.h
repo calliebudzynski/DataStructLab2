@@ -1,0 +1,8 @@
+//
+// Created by Callie Budzynski on 6/17/21.
+//
+
+#ifndef DATASTRUCTLAB2_BAGINTERFACE_H
+#define DATASTRUCTLAB2_BAGINTERFACE_H
+
+#endif //DATASTRUCTLAB2_BAGINTERFACE_H
